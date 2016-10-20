@@ -22,11 +22,9 @@ Insight from proximity-triggered engagement through meticulous measurement; pred
 DESC
 
   s.homepage         = ' https://github.com/yasodha-msf/BlinkingLabel1'
-  # s.screenshots     = 'www.example.com/screenshots_1', 'www.example.com/screenshots_2'
   s.license          = { :type => 'MIT', :file => 'LICENSE' }
   s.author           = { 'yasodha' => 'yasodha.r@inxsasia.com' }
-  s.source           = { :git => 'https://github.com/<GITHUB_USERNAME>/BlinkingLabel1.git', :tag => s.version.to_s }
-  # s.social_media_url = 'https://twitter.com/<TWITTER_USERNAME>'
+  s.source           = { :git => 'https://github.com/yasodha-msf/BlinkingLabel1.git', :tag => s.version.to_s }
 
   s.ios.deployment_target = '8.0'
 
